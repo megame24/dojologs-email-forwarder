@@ -1,0 +1,6 @@
+test/
+docs/
+.git/
+*.md
+.env
+zip.sh

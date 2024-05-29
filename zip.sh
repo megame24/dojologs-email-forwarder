@@ -1,0 +1,1 @@
+zip -r ../dojologs-eamil-forwarder.zip . -x $(cat .npmignore | sed 's/#.*//' | tr '\n' ' ')
